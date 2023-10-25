@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 5, Time elapsed: 0.735 s <<< FAILURE! - in TestSuite
+ddtExample.NOPComm_LoginDDTExample.launchApp  Time elapsed: 0.563 s  <<< FAILURE!
+java.lang.NoClassDefFoundError: com/google/common/io/ByteStreams
+Caused by: java.lang.ClassNotFoundException: com.google.common.io.ByteStreams
+

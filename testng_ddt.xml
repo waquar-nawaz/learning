@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="locatorExample.HRMLogin"/>
+      <class name="takeScreenShotExample.AmazonApp"/>
+      <class name="controlExample.HandleInputbox"/>
+      <class name="ddtExample.NOPComm_LoginDDTExample"/>
+      <class name="windowHandleExample.HandleWindow_IRCTCApp"/>
+      <class name="testNGExample.AmazonAppTest2"/>
+      <class name="controlExample.findelement_findelementsExample"/>
+      <class name="controlExample.BaseTest"/>
+      <class name="scenarioExample.NOPComm"/>
+      <class name="testNGExample.TestNGAnnotationExample"/>
+      <class name="dropdownExample.BaseTest"/>
+      <class name="javaScriptExample.WebTableExample"/>
+      <class name="alertExample.HandleAlert"/>
+      <class name="controlExample.HandleRadioButton"/>
+      <class name="controlExample.HandleCheckbox"/>
+      <class name="testNGExample.AmazonAppTest"/>
+      <class name="recap.ExampleSIDE"/>
+      <class name="dropdownExample.HandleDropDownExample"/>
+      <class name="javaScriptExample.MyntraAPP"/>
+      <class name="javaScriptExample.WebTableExample3"/>
+      <class name="controlExample.HandleButton"/>
+      <class name="javaScriptExample.WebTableExample2"/>
+      <class name="test.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
